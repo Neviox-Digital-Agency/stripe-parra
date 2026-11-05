@@ -156,6 +156,9 @@ invoices, fiscalization lag, PDF lag, numbering).
   [API versioning](https://docs.stripe.com/api/versioning) · [Test clocks](https://docs.stripe.com/billing/testing/test-clocks)
 * Croatia: [Porezna uprava](https://porezna-uprava.gov.hr) · [FINA](https://www.fina.hr) ·
   [Certilia demo certificates](https://reg.test.certilia.com)
+* More Croatian developer tooling by the same team: [hub3-barcode](https://github.com/tinmartinic/hub3-barcode)
+  (HUB3 "slikaj i plati" payment barcodes) and [evisitor-client](https://github.com/tinmartinic/evisitor-client)
+  (eVisitor tourist registration API)
 * [Rentijer](https://rentijer.com): property management for Croatian holiday rentals
   ([pricing](https://rentijer.com/cijene), [blog](https://rentijer.com/blog))
 * [Neviox Digital](https://nevioxdigital.com) ([English](https://nevioxdigital.com/en)): web and SaaS
